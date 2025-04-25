@@ -64,4 +64,4 @@ This project showcases how data science techniques can extract actionable insigh
 
 👨‍💻 Author  
 **Ali Haider**  
-📫 [GitHub](https://github.com/alihaider-ml) • [LinkedIn](www.linkedin.com/in/ali-haider-ml)
+📫 [GitHub](https://github.com/alihaider-ml) • [LinkedIn](https://www.linkedin.com/in/ali-haider-341697268/)
